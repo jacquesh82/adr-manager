@@ -1,7 +1,3 @@
-Perfect 👍 Here’s an **English version** of the GitHub project description for **ADR Manager**:
-
----
-
 # ADR Manager
 
 **ADR Manager** is a project designed to standardize, centralize, and automate the management of **Architecture Decision Records (ADRs)** in a DevOps, SRE, and architecture governance context.
